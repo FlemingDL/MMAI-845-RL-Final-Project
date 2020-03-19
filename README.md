@@ -24,3 +24,8 @@ You are now ready to push your changes to the server.  To do, enter:
 ```bash
 $ git push
 ```
+Remember to always do a git pull before making edits (it's not that big of a deal if you don't but
+will make your life easier when get started)
+```bash
+$ git pull
+```
