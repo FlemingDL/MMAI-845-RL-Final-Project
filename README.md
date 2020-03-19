@@ -30,3 +30,20 @@ will make your life easier when get started)
 ```bash
 $ git pull
 ```
+## Adding a new notebook
+The process is pretty much the same as above.  Ensure you have the latest code:
+```bash
+$ git pull
+```
+Use git add to add the file:
+ ```bash
+$ git add <name of new file.ipynb>
+```
+Use git commit to stage the changes:
+```bash
+$ git commit -m "Initial commit"
+```
+Push the changes
+```bash
+$ git push
+```
