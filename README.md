@@ -7,7 +7,8 @@ Te get setup first clone the repository into a new directory
 $ git clone https://github.com/FlemingDL/MMAI-845-RL-Final-Project.git
 ```
 ## Editing your notebook
-Always make sure you have the latest code from the server before making any changes.  To ensure this enter:
+Always make sure you have the latest code from the server before making any changes.  To ensure you have the
+latest changes enter:
 ```bash
 $ git pull
 ```
