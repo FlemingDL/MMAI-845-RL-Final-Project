@@ -1,5 +1,5 @@
 """
-Source codes for PyTorch 1.0 Reinforcement Learning (Packt Publishing)
+SARSA code from: PyTorch 1.0 Reinforcement Learning (Packt Publishing)
 Chapter 4: Temporal Difference and Q-Learning
 Author: Yuxi (Hayden) Liu
 """
